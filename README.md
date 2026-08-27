@@ -11,7 +11,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 フルスタックや自宅鯖をAIを用いて開発・運用しています
+- 🧑‍💻 フルスタックサービスや自宅鯖を開発・運用しています
 - 🌱 幅広く学習中です
 - 📫 [Twitter - @penkun0286](https://twitter.com/penkun0286)
 <br>
