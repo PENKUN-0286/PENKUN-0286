@@ -13,7 +13,7 @@
 
 - 🧑‍💻 フルスタックサービスや自宅鯖を開発・運用しています
 - 🌱 幅広く学習中です
-- 📫 [Twitter - @penkun0286](https://twitter.com/penkun0286)
+- 📫 [X - @penkun0286](https://twitter.com/penkun0286)
 <br>
 
 
